@@ -187,7 +187,7 @@ The Grocery Bud project is open-source and available under the [MIT License](LIC
 
 ## Acknowledgements
 
-- [Figma](https://www.figma.com/) for providing the design inspiration for the project.
+- [Figma](https://www.figma.com/file/8rXGl68NoEmAhHpcV7aB5o/Grocery-bud?node-id=0%3A1&t=IMjjwDExGWpXdpQL-1) for providing the design inspiration for the project.
 - [React](https://reactjs.org/) for the powerful and efficient JavaScript library used to build the project.
 - [nanoid](https://www.npmjs.com/package/nanoid) for generating unique IDs for each grocery item.
 - [React-Toastify](https://fkhadra.github.io/react-toastify/introduction) for handling toast notifications in the application.
@@ -196,5 +196,5 @@ The Grocery Bud project is open-source and available under the [MIT License](LIC
 
 If you have any questions or suggestions regarding the Grocery Bud project, feel free to contact me:
 
-- Email: your.email@example.com
+- Email: msmt0452@gmail.com
 - GitHub: [Mohamed-Esmat](https://github.com/Mohamed-Esmat)
